@@ -1,70 +1,53 @@
 
-<h1 align="center">Hi 👋, I'm Monasri</h1>
-<h3 align="center">AI & Machine Learning Student | Aspiring Generative AI Engineer | Building AI that Solves Real Problems</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=4F8EF7&center=true&vCenter=true&width=700&lines=AI+%26+ML+Student;Generative+AI+Engineer+in+Progress;Python+Developer;LLMs+%7C+RAG+%7C+Prompt+Engineering;Always+Learning+Something+New" />
-</p>
+# 👋 Hi, I'm Monasri
 
----
+### Building AI products with Python, LLMs & Generative AI
 
-## 🚀 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&duration=3500&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&lines=Generative+AI+Engineer;Python+Developer;LLMs+%7C+RAG+%7C+Agents;Open+Source+Contributor;Always+Building+Something+Cool"/>
 
-🎓 B.Tech in Artificial Intelligence & Machine Learning (MGIT)
+<br>
 
-🤖 Passionate about **Generative AI, Large Language Models, and AI Applications**
+<img src="https://komarev.com/ghpvc/?username=Monasri29-hub&style=for-the-badge&color=7F5AF0"/>
 
-🌱 Currently learning
-
-- Advanced Python
-- Machine Learning
-- Prompt Engineering
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
-
-💡 Interested in
-
-- Generative AI
-- AI Products
-- Healthcare AI
-- Computer Vision
-- Open Source
+</div>
 
 ---
 
-## 🛠 Tech Stack
+## ✨ About
 
-### Languages
+```python
+class Monasri:
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,javascript" />
-</p>
+    education = "B.Tech AI & ML"
 
-### AI / ML
+    interests = [
+        "Generative AI",
+        "LLMs",
+        "AI Agents",
+        "Prompt Engineering",
+        "Open Source"
+    ]
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
+    currently_building = [
+        "ContentForge AI",
+        "SignSpell AI",
+        "EmotiSpace"
+    ]
 
-- NumPy
-- Pandas
-- Scikit-Learn
-- Streamlit
-- OpenAI API
-- Google Gemini API
-- Hugging Face
+    motto = "Build. Learn. Repeat."
+```
 
-### Web & Databases
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,supabase,firebase,mongodb" />
-</p>
+# ⚡ Tech Stack
 
-### Tools
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma,linux" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,nextjs,nodejs,tensorflow,pytorch,mongodb,supabase,firebase,git,github,vscode,linux,figma&perline=8"/>
+
+</div>
 
 ---
 
@@ -72,94 +55,61 @@
 
 ### 📝 ContentForge AI
 
-Production-quality Generative AI content creation assistant.
-
-✨ Features
-
-- Social Media Post Generator
-- Blog Writer
-- Video Script Generator
-- Prompt Engineering
-- Multiple Writing Tones
-- Python + Streamlit
+> Production-ready Generative AI writing assistant powered by Python + Streamlit.
 
 ---
 
 ### 🏡 EmotiSpace
 
-AI-powered interior recommendation system that generates room designs based on user emotions and preferences.
+> Emotion-aware AI interior recommendation platform.
 
 ---
 
 ### 🤟 SignSpell AI
 
-American Sign Language Fingerspelling Recognition using Computer Vision and Machine Learning.
+> Computer Vision project for American Sign Language recognition.
 
 ---
 
-## 📈 GitHub Stats
+# 📈 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Monasri29-hub&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Monasri29-hub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monasri29-hub&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=Monasri29-hub&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
----
+<br>
 
-## 🔥 GitHub Streak
+<div align="center">
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Monasri29-hub&theme=tokyonight&hide_border=true"/>
-</p>
+<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=Monasri29-hub&theme=tokyo-night&hide_border=true"/>
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Monasri29-hub&theme=algolia&no-frame=true&row=1&column=6"/>
-</p>
+</div>
 
 ---
 
-## 📊 Contribution Graph
+# 🌐 Connect
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Monasri29-hub&theme=tokyo-night"/>
-</p>
+<div align="center">
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
 
-## 🌐 Connect With Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-7F5AF0?style=for-the-badge)](YOUR_PORTFOLIO)
 
-<p>
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
 
-<a href="https://github.com/Monasri29-hub">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<!-- Replace with your LinkedIn URL -->
-<a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<!-- Replace with your email -->
-<a href="mailto:your_email@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
+</div>
 
 ---
 
-## 💡 Quote
+<div align="center">
 
-> *"The best way to predict the future is to build it."*
+### 💜 *Turning ideas into intelligent products.*
 
----
+⭐ Thanks for visiting!
 
-⭐ If you like my projects, consider giving them a star!
-```
+</div>
+````
