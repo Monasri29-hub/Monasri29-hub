@@ -160,6 +160,18 @@ AI algorithm complexity analyzer — Stanford Code in Place 2026 final project, 
 <img src="https://raw.githubusercontent.com/Monasri29-hub/Monasri29-hub/output/github-contribution-grid-snake.svg" width="95%"/>
 </div>
 
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Monasri29-hub&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
+</div>
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Monasri29-hub&label=Profile%20Views&color=00C9A7&style=for-the-badge" />
+</div>
+
 <br>
 
 ## 🏁 Timeline
