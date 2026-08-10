@@ -1,16 +1,4 @@
-<div align="center">
-    <a href="https://v1.pinimg.com/videos/mc/720p/d8/2c/e7/d82ce7fbb0b2c37d642162fed355dab5.mp4">
-        <img width="300" src="gif.mp4"/>
-    </a>
-    <br/><br/>
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=false&width=600&height=60&lines=Greetings%2C+wanderer!+I'm+DIMFLIX!" alt="Typing SVG" />
-    </a>
-</div>
-
 <img width="1173" height="400" alt="image" src="https://github.com/user-attachments/assets/34eaa60e-1561-490a-8f11-2661ee9ddaef" />
-
-<a href="https://v1.pinimg.com/videos/mc/720p/d8/2c/e7/d82ce7fbb0b2c37d642162fed355dab5.mp4"> </a>
 
 <div align="center">
   
@@ -32,10 +20,10 @@ I’m an Artificial Intelligence & Machine Learning student passionate about bui
 
 I enjoy working at the intersection of Generative AI, Machine Learning, and Software Engineering, where I can turn ideas into real-world applications.
 
-🤖 Interested in Generative AI & LLMs
-🛠️ Love building practical AI-powered tools
-🌱 Currently exploring advanced AI systems & product development
-💡 Hackathon & open-source enthusiast
+- 🤖 Interested in Generative AI & LLMs
+- 🛠️ Love building practical AI-powered tools
+- 🌱 Currently exploring advanced AI systems & product development
+- 💡 Hackathon & open-source enthusiast
 
 ---
 
