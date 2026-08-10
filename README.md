@@ -17,28 +17,33 @@
 
 ## About Me
 
-I'm a student building projects across machine learning and software development — from CNN-based medical imaging models to full-stack web apps. I also practice competitive programming and enjoy building things that are well-engineered and thoughtfully designed.
+I’m an Artificial Intelligence & Machine Learning student passionate about building intelligent, user-focused products.
+
+I enjoy working at the intersection of Generative AI, Machine Learning, and Software Engineering, where I can turn ideas into real-world applications.
+
+🤖 Interested in Generative AI & LLMs
+🛠️ Love building practical AI-powered tools
+🌱 Currently exploring advanced AI systems & product development
+💡 Hackathon & open-source enthusiast
 
 ---
 
 ## Tech Stack
 
-![](https://skillicons.dev/icons?i=python,cpp,js,ts,html,css,react)
+![](https://skillicons.dev/icons?i=python,cpp,js,html,css,react)
 
-`Python` `C++` `JavaScript` `TypeScript` `Jupyter Notebook` `MATLAB`
+`Python` `C++` `JavaScript` `Jupyter Notebook`
 
 ---
 
 ## Pinned Projects
 
-| Project | Description | Language |
-|---|---|---|
-| [**brain-tumor-detection**](https://github.com/Monasri29-hub/brain-tumor-detection) | AI-powered CNN model to detect brain tumors from MRI scans | Jupyter Notebook |
-| [**Employee-Salary-Prediction**](https://github.com/Monasri29-hub/Employee-Salary-Prediction---Monasri) | Salary prediction model | Python |
-| [**Emotispace**](https://github.com/Monasri29-hub/Emotispace) | Emotion-to-design web app | TypeScript |
-| [**IDH_Prediction1**](https://github.com/Monasri29-hub/IDH_Prediction1) | Fork — deep learning to predict IDH status from MR imaging | MATLAB |
-| [**IDHpredict2**](https://github.com/Monasri29-hub/IDHpredict2) | Fork — DICOM-to-IDH-prediction pipeline | Python |
-| [**PrognosAIs_glioma3**](https://github.com/Monasri29-hub/PrognosAIs_glioma3) | Fork — glioma genetics prediction & segmentation | Python |
+| Project                                                                 | Description                                           | Language             |
+| ----------------------------------------------------------------------- | ----------------------------------------------------- | -------------------- |
+| [**ContentForge-AI**](https://github.com/Monasri29-hub/ContentForge-AI) | AI tool to generate structured content using LLMs     | Python               |
+| [**SignSpell-AI**](https://github.com/Monasri29-hub/SignSpell-AI)       | ASL fingerspelling recognition using computer vision  | Python               |
+| [**KitchenWhiz**](https://github.com/Monasri29-hub/KitchenWitz)         | AI-powered meal planner from pantry ingredients       | Python               |
+| [**EmotiSpace**](https://github.com/Monasri29-hub/Emotispace)           | AI-powered emotion-to-interior design web app         | TypeScript           |
 
 ---
 
@@ -53,4 +58,9 @@ I'm a student building projects across machine learning and software development
 
 ## Connect
 
-Add your LinkedIn, portfolio, or email links here once you have them ready.
+* 💼 LinkedIn: (https://www.linkedin.com/in/kundeti-monasri-3650ba326)
+* 📝 Medium: (https://medium.com/@monasri9c.vhs)
+* 🌐 Portfolio: (https://monasri-portfolio.my.canva.site/)
+* 📄 Resume: (https://drive.google.com/file/d/1tW0r1L2BSCvdsfo1gXcu5T22PbZGeyyd/view)
+* 📧 Email: (mailto:monasri9c.vhs@gmail.com)
+
