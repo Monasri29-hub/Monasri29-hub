@@ -29,9 +29,11 @@ I enjoy working at the intersection of Generative AI, Machine Learning, and Soft
 
 ## Tech Stack
 
-![](https://skillicons.dev/icons?i=python,cpp,js,html,css,react)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,django,html,css,react" />
+</div>
 
-`Python` `C++` `JavaScript` `Jupyter Notebook`
+`Python` `C` `C++` `Django` `HTML` `CSS` `React`
 
 ---
 
@@ -49,8 +51,8 @@ I enjoy working at the intersection of Generative AI, Machine Learning, and Soft
 ## GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Monasri29-hub&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monasri29-hub&layout=compact&theme=default&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Monasri29-hub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monasri29-hub&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </div>
 
 ---
@@ -58,8 +60,6 @@ I enjoy working at the intersection of Generative AI, Machine Learning, and Soft
 ## Connect
 
 * 💼 LinkedIn: (https://www.linkedin.com/in/kundeti-monasri-3650ba326)
-  <img align="right" width="120" height="120"
-src="https://github.com/user-attachments/assets/7577ff02-c04f-410d-bdff-7b4e4c92e616" style="margin-left:-20px;" />
 * 📝 Medium: (https://medium.com/@monasri9c.vhs)
 * 🌐 Portfolio: (https://monasri-portfolio.my.canva.site/)
 * 📄 Resume: (https://drive.google.com/file/d/1tW0r1L2BSCvdsfo1gXcu5T22PbZGeyyd/view)
