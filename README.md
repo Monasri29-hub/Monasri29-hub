@@ -1,8 +1,8 @@
 <img width="1173" height="400" alt="image" src="https://github.com/user-attachments/assets/34eaa60e-1561-490a-8f11-2661ee9ddaef" />
 
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://v1.pinimg.com/videos/mc/720p/d8/2c/e7/d82ce7fbb0b2c37d642162fed355dab5.mp4)
+<a href="https://v1.pinimg.com/videos/mc/720p/d8/2c/e7/d82ce7fbb0b2c37d642162fed355dab5.mp4"> </a>
 
-https://v1.pinimg.com/videos/mc/720p/d8/2c/e7/d82ce7fbb0b2c37d642162fed355dab5.mp4
+(https://v1.pinimg.com/videos/mc/720p/d8/2c/e7/d82ce7fbb0b2c37d642162fed355dab5.mp4)
 
 <div align="center">
   
