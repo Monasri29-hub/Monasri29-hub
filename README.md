@@ -27,9 +27,6 @@ I enjoy working at the intersection of Generative AI, Machine Learning, and Soft
 
 ---
 
-<!-- Right side image -->
-<img align="right" width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/1cb11915-cb79-470d-88aa-400e58c6c7ac" />
-
 ## Tech Stack
 
 ![](https://skillicons.dev/icons?i=python,cpp,js,html,css,react)
@@ -49,8 +46,6 @@ I enjoy working at the intersection of Generative AI, Machine Learning, and Soft
 
 ---
 
-<br clear="right"/>
-
 ## GitHub Stats
 
 <div align="center">
@@ -59,6 +54,8 @@ I enjoy working at the intersection of Generative AI, Machine Learning, and Soft
 </div>
 
 ---
+
+<img align="right" width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/1cb11915-cb79-470d-88aa-400e58c6c7ac" />
 
 ## Connect
 
