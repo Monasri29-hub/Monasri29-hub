@@ -3,7 +3,7 @@
 
 <div align="center">
 
-# Hi, I'm Mona 👋
+# ʜɪ, ɪ’ᴍ ᴍᴏɴᴀ 👋
 
 **Student · AI/ML & Software Development**
 
