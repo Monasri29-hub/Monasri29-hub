@@ -48,15 +48,6 @@ I enjoy working at the intersection of Generative AI, Machine Learning, and Soft
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Monasri29-hub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monasri29-hub&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</div>
-
----
-
 ## Connect
 
 * 💼 LinkedIn: (https://www.linkedin.com/in/kundeti-monasri-3650ba326)
