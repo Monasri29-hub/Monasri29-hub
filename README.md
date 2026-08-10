@@ -28,7 +28,7 @@ I enjoy working at the intersection of Generative AI, Machine Learning, and Soft
 ---
 
 <!-- Right side image -->
-<img align="right" width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/1cb11915-cb79-470d-88aa-400e58c6c7ac" />
+<img align="right" width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/1cb11915-cb79-470d-88aa-400e58c6c7ac" />
 
 ## Tech Stack
 
