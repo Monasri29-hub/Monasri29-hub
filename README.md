@@ -55,42 +55,13 @@ I enjoy working at the intersection of Generative AI, Machine Learning, and Soft
 
 ---
 
-<img align="right" width="120" height="120"
-src="https://github.com/user-attachments/assets/7577ff02-c04f-410d-bdff-7b4e4c92e616" />
 ## Connect
 
 * 💼 LinkedIn: (https://www.linkedin.com/in/kundeti-monasri-3650ba326)
+  <img align="right" width="120" height="120"
+src="https://github.com/user-attachments/assets/7577ff02-c04f-410d-bdff-7b4e4c92e616" />
 * 📝 Medium: (https://medium.com/@monasri9c.vhs)
 * 🌐 Portfolio: (https://monasri-portfolio.my.canva.site/)
 * 📄 Resume: (https://drive.google.com/file/d/1tW0r1L2BSCvdsfo1gXcu5T22PbZGeyyd/view)
 * 📧 Email: (mailto:monasri9c.vhs@gmail.com)
-
-<table>
-<tr>
-<td width="70%">
-
-## 🛠️ Tech Stack
-
-`Python` `C++` `JavaScript` `Jupyter Notebook`
-
----
-
-## 📌 Pinned Projects
-
-| Project | Description | Language |
-|--------|------------|----------|
-| [**ContentForge-AI**](https://github.com/Monasri29-hub/ContentForge-AI) | AI tool to generate structured content using LLMs | Python |
-| [**SignSpell-AI**](https://github.com/Monasri29-hub/SignSpell-AI) | ASL recognition using computer vision | Python |
-| [**KitchenWhiz**](https://github.com/Monasri29-hub/KitchenWhiz) | AI-powered meal planner | Python |
-| [**EmotiSpace**](https://github.com/Monasri29-hub/Emotispace) | Emotion → interior design | TypeScript |
-
-</td>
-
-<td width="30%" align="center">
-
-<img src="https://github.com/user-attachments/assets/7577ff02-c04f-410d-bdff-7b4e4c92e616" width="200"/>
-
-</td>
-</tr>
-</table>
 
