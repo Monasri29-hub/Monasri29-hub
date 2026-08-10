@@ -55,8 +55,7 @@ I enjoy working at the intersection of Generative AI, Machine Learning, and Soft
 
 ---
 
-<img align="right" width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/1cb11915-cb79-470d-88aa-400e58c6c7ac" />
-
+<img align="right" width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/7577ff02-c04f-410d-bdff-7b4e4c92e616" />
 ## Connect
 
 * 💼 LinkedIn: (https://www.linkedin.com/in/kundeti-monasri-3650ba326)
