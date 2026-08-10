@@ -2,7 +2,7 @@
 
 <div align="center">
   
-# 𝐻𝒾, 𝐼 𝒜𝓂 𝑀𝑜𝓃𝒶👋
+# Hi, I Am Mona👋 
 
 **Student · AI/ML & Software Development**
 
