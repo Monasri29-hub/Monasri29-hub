@@ -27,9 +27,10 @@ I enjoy working at the intersection of Generative AI, Machine Learning, and Soft
 
 ---
 
-## Tech Stack
+<!-- Right side image -->
+<img align="right" width="320" src="https://i.pinimg.com/736x/39/06/fd/3906fd3cfaf1bb5e0a7d33f4be0ff7e2.jpg" />
 
-<img align = "right" width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/e4ea814e-e240-4c8a-a051-18808efc52bb" />
+## Tech Stack
 
 ![](https://skillicons.dev/icons?i=python,cpp,js,html,css,react)
 
@@ -47,6 +48,8 @@ I enjoy working at the intersection of Generative AI, Machine Learning, and Soft
 | [**EmotiSpace**](https://github.com/Monasri29-hub/Emotispace)           | AI-powered emotion-to-interior design web app         | TypeScript           |
 
 ---
+
+<br clear="right"/>
 
 ## GitHub Stats
 
