@@ -59,7 +59,7 @@ I enjoy working at the intersection of Generative AI, Machine Learning, and Soft
 
 * 💼 LinkedIn: (https://www.linkedin.com/in/kundeti-monasri-3650ba326)
   <img align="right" width="120" height="120"
-src="https://github.com/user-attachments/assets/7577ff02-c04f-410d-bdff-7b4e4c92e616" />
+src="https://github.com/user-attachments/assets/7577ff02-c04f-410d-bdff-7b4e4c92e616" style="margin-left:-20px;" />
 * 📝 Medium: (https://medium.com/@monasri9c.vhs)
 * 🌐 Portfolio: (https://monasri-portfolio.my.canva.site/)
 * 📄 Resume: (https://drive.google.com/file/d/1tW0r1L2BSCvdsfo1gXcu5T22PbZGeyyd/view)
