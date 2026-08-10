@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://v1.pinimg.com/videos/mc/720p/d8/2c/e7/d82ce7fbb0b2c37d642162fed355dab5.mp4">
-        <img width="300" src="./assets/main.gif"/>
+        <img width="300" src="gif.mp4"/>
     </a>
     <br/><br/>
     <a href="https://git.io/typing-svg">
