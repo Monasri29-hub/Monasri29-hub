@@ -29,7 +29,7 @@ I enjoy working at the intersection of Generative AI, Machine Learning, and Soft
 
 ## Tech Stack
 
-<img align = "right" width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/e4ea814e-e240-4c8a-a051-18808efc52bb" />
+<img align = "right" width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/e4ea814e-e240-4c8a-a051-18808efc52bb" />
 
 ![](https://skillicons.dev/icons?i=python,cpp,js,html,css,react)
 
